@@ -10,3 +10,7 @@ header{
 h1{
     text-align: center;
 }
+p{
+    color: blueviolet;
+    padding: 20px;
+}
